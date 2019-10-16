@@ -5,11 +5,12 @@ Font awesome icons version 5.11.2
 
 Release September 23, 2019
 
-asociative-array | complete-array | simple-array
+[asociative-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/asociative-array)
   $arr_fab_icons_5_11_2 = array(
 	  "fab fa-twitter-square" => "f081"
   );
-  | 
+  
+[complete-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/complete-array)
   $arr_fa_icons_5_11_2_full = array(
 	  array(
 		  'type' => 'b',
@@ -19,7 +20,8 @@ asociative-array | complete-array | simple-array
 		  'html' => '<i class="fab fa-twitter-square"></i>'
 	  )
   );
-  | 
+  
+[simple-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/simple-array)
   $arr_fa_icons_5_11_2_full = array(
 	  "fab fa-twitter-square"
   );
