@@ -11,6 +11,8 @@ Release September 23, 2019
 	  "fab fa-twitter-square" => "f081"
   );
 ```  
+
+
 [complete-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/complete-array)
 ```php
   $arr_fa_icons_5_11_2_full = array(
@@ -23,6 +25,8 @@ Release September 23, 2019
 	  )
   );
 ```  
+
+
 [simple-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/simple-array)
 ```php
   $arr_fa_icons_5_11_2_full = array(
