@@ -5,20 +5,23 @@ Font awesome icons version 5.15.1
 
 Release October 20, 2020
 
-![COVID-19: Help spread awareness and not the virus with these free icons](<https://i.ibb.co/N2DWvQ3/siri.png>)
-
 COVID-19: Help spread awareness and not the virus with these free icons.
 
-![Ready for a close encounter? Check out our new space icons](<https://i.ibb.co/Pwrj39D/sci-fi.png>)
+![COVID-19: Help spread awareness and not the virus with these free icons](<https://i.ibb.co/N2DWvQ3/siri.png>)
 
 Ready for a close encounter? Check out our new space icons.
 
-![Our new Science Fiction icons are ready to beam up.](<https://i.ibb.co/k1kLK4N/space.png>)
+![Ready for a close encounter? Check out our new space icons](<https://i.ibb.co/1GVMkqy/covid.png>)
 
 Our new Science Fiction icons are ready to beam up.
 
-![Hey Siri, turn up the heat on our new household icons](<https://i.ibb.co/1GVMkqy/covid.png>)
+![Our new Science Fiction icons are ready to beam up.](<https://i.ibb.co/k1kLK4N/space.png>)
+
+
 Hey Siri, turn up the heat on our new household icons.
+
+![Hey Siri, turn up the heat on our new household icons](<https://i.ibb.co/Pwrj39D/sci-fi.png>)
+
 
 
 [asociative-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/asociative-array)
