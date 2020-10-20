@@ -5,7 +5,7 @@ Font awesome icons version 5.15.1
 
 Release October 20, 2020
 
-(https://i.ibb.co/N2DWvQ3/siri.png)
+![COVID-19: Help spread awareness and not the virus with these free icons! ](<https://i.ibb.co/N2DWvQ3/siri.png>)
 COVID-19: Help spread awareness and not the virus with these free icons! 
 
 (https://i.ibb.co/Pwrj39D/sci-fi.png)
