@@ -26,7 +26,7 @@ Hey Siri, turn up the heat on our new household icons.
 
 [asociative-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/asociative-array)
 ```php
-	$arr_fab_icons_5_15_1 = array(
+	$arr_font_awesome_icons_5_15_1_associative = array(
 		"fab fa-twitter-square" => "\f081"
 	);
 ```  
@@ -34,7 +34,7 @@ Hey Siri, turn up the heat on our new household icons.
 
 [complete-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/complete-array)
 ```php
-	$arr_fa_icons_5_15_1_full = array(
+	$arr_font_awesome_icons_5_15_1_full = array(
 		'twitter-square' => array(
 			'type' => 'b',
 			'name' => 'twitter-square',
@@ -48,7 +48,7 @@ Hey Siri, turn up the heat on our new household icons.
 
 [simple-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/simple-array)
 ```php
-	$arr_fa_icons_5_15_1_simple = array(
+	$arr_font_awesome_icons_5_15_1_simple = array(
 		"fab fa-twitter-square"
 	);
 ```
