@@ -5,16 +5,16 @@ Font awesome icons version 5.15.1
 
 Release October 20, 2020
 
-(https://ibb.co/8gvPCTB][img]https://i.ibb.co/N2DWvQ3/siri.png
+(https://i.ibb.co/N2DWvQ3/siri.png)
 COVID-19: Help spread awareness and not the virus with these free icons! 
 
-(https://imgbb.com/][img]https://i.ibb.co/Pwrj39D/sci-fi.png)
+(https://i.ibb.co/Pwrj39D/sci-fi.png)
 Ready for a close encounter? Check out our new space icons. 
 
-(https://imgbb.com/][img]https://i.ibb.co/k1kLK4N/space.png)
+(https://i.ibb.co/k1kLK4N/space.png)
 Our new Science Fiction icons are ready to beam up. 
 
-(https://ibb.co/fdR9sp6][img]https://i.ibb.co/1GVMkqy/covid.png)
+(https://i.ibb.co/1GVMkqy/covid.png)
 Hey Siri, turn up the heat on our new household icons. 
 
 
