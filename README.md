@@ -1,35 +1,48 @@
 # fontawesome-php-arrays
 List of font awesome icons for PHP
 
-Font awesome icons version 5.11.2
+Font awesome icons version 5.15.1 
 
-Release September 23, 2019
+Release October 20, 2020
+
+(https://ibb.co/8gvPCTB][img]https://i.ibb.co/N2DWvQ3/siri.png
+COVID-19: Help spread awareness and not the virus with these free icons! 
+
+(https://imgbb.com/][img]https://i.ibb.co/Pwrj39D/sci-fi.png)
+Ready for a close encounter? Check out our new space icons. 
+
+(https://imgbb.com/][img]https://i.ibb.co/k1kLK4N/space.png)
+Our new Science Fiction icons are ready to beam up. 
+
+(https://ibb.co/fdR9sp6][img]https://i.ibb.co/1GVMkqy/covid.png)
+Hey Siri, turn up the heat on our new household icons. 
+
 
 [asociative-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/asociative-array)
 ```php
-  $arr_fab_icons_5_11_2 = array(
-	  "fab fa-twitter-square" => "f081"
-  );
+	$arr_fab_icons_5_15_1 = array(
+		"fab fa-twitter-square" => "f081"
+	);
 ```  
 
 
 [complete-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/complete-array)
 ```php
-  $arr_fa_icons_5_11_2_full = array(
-	  array(
-		  'type' => 'b',
-		  'name' => 'twitter-square',
-		  'unicode' => 'f081',
-		  'class' => "fab fa-twitter-square",
-		  'html' => '<i class="fab fa-twitter-square"></i>'
-	  )
-  );
+	$arr_fa_icons_5_15_1_full = array(
+		'twitter-square' => array(
+			'type' => 'b',
+			'name' => 'twitter-square',
+			'unicode' => '\f081',
+			'class' => "fab fa-twitter-square",
+			'html' => '<i class="fab fa-twitter-square"></i>'
+		)
+	);
 ```  
 
 
 [simple-array](https://github.com/llobu/fontawesome-php-arrays/blob/master/simple-array)
 ```php
-  $arr_fa_icons_5_11_2_full = array(
-	  "fab fa-twitter-square"
-  );
+	$arr_fa_icons_5_15_1_simple = array(
+		"fab fa-twitter-square"
+	);
 ```
