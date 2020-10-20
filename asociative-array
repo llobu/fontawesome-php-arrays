@@ -1,4 +1,4 @@
-$arr_fab_icons_5_11_2 = array(
+$arr_font_awesome_icons_5_15_1_associative = array(
 		'500px'	=> '\f26e',
 		'accessible-icon'	=> '\f368',
 		'accusoft'	=> '\f369',
