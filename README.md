@@ -3,6 +3,8 @@ List of font awesome icons for PHP
 
 Font awesome icons version 5.15.1 
 
+Web fonts from https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts
+
 Release October 20, 2020
 
 COVID-19: Help spread awareness and not the virus with these free icons.
