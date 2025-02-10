@@ -1,11 +1,11 @@
 # fontawesome-php-arrays
 List of font awesome icons for PHP
 
-Font awesome icons version 5.15.1 
+Font awesome icons version 5.15.1 & 6.7.2
 
 Web fonts from https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts
 
-Release October 20, 2020
+Release October 20, 2020 - February 10, 2025
 
 COVID-19: Help spread awareness and not the virus with these free icons.
 
